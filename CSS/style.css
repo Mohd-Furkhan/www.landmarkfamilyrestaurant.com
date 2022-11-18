@@ -9,6 +9,10 @@ html
     scroll-behavior:smooth;
     overflow-y: scroll;
 }
+body
+{
+    overflow-y: scroll;
+}
 nav
 {
     background-color:rgba(36,37,120,255);
