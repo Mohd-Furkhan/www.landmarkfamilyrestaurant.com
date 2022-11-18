@@ -1,0 +1,71 @@
+*
+{
+ box-sizing:border-box;
+ margin:0;
+ padding:0;   
+}
+html
+{
+    scroll-behavior:smooth;
+}
+nav
+{
+    background-color:rgba(36,37,120,255);
+    font-size:x-large;
+}
+.active
+{
+    background-color:rgba(226,35,38,255);
+}
+nav ul li a:hover
+{
+    background-color:rgba(226,35,38,255);
+}
+section
+{
+    color:#fbfbfc;
+    text-align:center;
+    font-size:xx-large;
+}
+div img
+{
+    width:100%;
+    padding-top:100px;
+}
+a:hover
+{
+    background-color:rgba(36,37,120,255);
+}
+#about
+{
+    padding-top:200px;
+}
+#contact
+{
+    padding-top:100px;
+}
+input[type="text"],
+input[type="number"],
+input[type="datetime-local"],
+input[type="text"]
+{
+    padding:4px;
+    border-radius:4px;
+}
+input[type="submit"]:hover
+{
+    cursor:pointer;
+    background-color: rgba(36,37,120,255);
+    color: #fbfdfc;
+}
+footer
+{
+    text-align: center;
+    background-color:rgba(36,37,120,255); 
+    color: #fbfdfc;
+}
+p b
+{
+    color:rgba(226,35,38,255);
+    background-color: #fbfdfc;
+}
