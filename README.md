@@ -1,2 +1,2 @@
 # www.landmarkfamilyrestaurant.com
-I created our own restaurant website using HTML CSS and Bootstrap
+I created our own restaurant website using HTML CSS and Bootstrap JavaScript 
