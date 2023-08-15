@@ -21,10 +21,12 @@ nav
 .active
 {
     background-color:rgba(226,35,38,255);
+    border-radius: 4px;
 }
 nav ul li a:hover
 {
     background-color:rgba(226,35,38,255);
+    border-radius: 4px;
 }
 section
 {
@@ -40,6 +42,12 @@ div img
 a:hover
 {
     background-color:rgba(36,37,120,255);
+    border-radius: 4px;
+}
+p b
+{
+    color:rgba(226,35,38,255);
+    background-color: #fbfdfc;
 }
 #about
 {
@@ -63,14 +71,19 @@ input[type="submit"]:hover
     background-color: rgba(36,37,120,255);
     color: #fbfdfc;
 }
+#gmail-button:hover
+{
+    background-color:#df5043;
+    border-radius: 4px;
+}
+#whatsapp-button:hover
+{
+    background-color:#25D366;
+    border-radius: 4px;
+}
 footer
 {
     text-align: center;
     background-color:rgba(36,37,120,255); 
     color: #fbfdfc;
-}
-p b
-{
-    color:rgba(226,35,38,255);
-    background-color: #fbfdfc;
 }
